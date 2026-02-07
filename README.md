@@ -117,14 +117,6 @@ This dashboard supports:
 
 ---
 
-## ▶️ How to Use
-
-1. 📥 Download the `.pbix` file
-2. 🖥️ Open in **Power BI Desktop**
-3. 🔄 Refresh the dataset
-4. 🎛️ Use filters (City, State) to explore insights
-
----
 
 ## 👨‍💻 Author
 
